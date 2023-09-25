@@ -1,6 +1,6 @@
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { RecentlyPlayed } from "../globalComponents/RecentlyPlayed";
-import { SugestedAlbum } from "../globalComponents/SugestedAlbum";
+import { RecentlyPlayed } from "../global/RecentlyPlayed";
+import { SugestedAlbum } from "../global/SugestedAlbum";
 
 export function Main() {
   return (

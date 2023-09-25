@@ -1,6 +1,6 @@
 import { HomeIcon, Library, Search } from "lucide-react";
-import { PlayList } from "../globalComponents/PlayList";
-import { FormatedIcon } from "../globalComponents/FormatedIcon";
+import { PlayList } from "../global/PlayList";
+import { FormatedIcon } from "../global/FormatedIcon";
 
 export function SideBar() {
   return (

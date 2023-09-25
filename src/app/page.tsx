@@ -1,6 +1,6 @@
-import { SideBar } from "../components/pageComponents/Sidebar";
-import { Footer } from "../components/pageComponents/Footer";
-import { Main } from "@/components/pageComponents/Main";
+import { SideBar } from "../components/page/Sidebar";
+import { Footer } from "../components/page/Footer";
+import { Main } from "@/components/page/Main";
 
 export default function Home() {
   return (
